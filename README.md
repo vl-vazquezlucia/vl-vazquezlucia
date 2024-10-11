@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vázquez Bénitez Lucía
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning back-end and front-end website programming with TalentoDigital. Fullstack Programmer and AI Programmer with Start Codinf IA (puzzleargentina).
-- 💞️ I’m looking to collaborate on development of both front-end and back-end pages.
+- ✨I’m looking to collaborate on development of both front-end and back-end pages.
 - 📫 Contact me through vl-vazquez.lucia@gmail.com or in my email lucia-belen-111@hotmail.com.
 
 
